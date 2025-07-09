@@ -5,6 +5,6 @@
 * ML (Machine Learning)
 ## 🛠️ Мои навыки:
 * Языки: Python, SQL (Базовый уровень)
-* Инфраструктура: Git (Базовый уровень), Jupyter
+* Инфраструктура: Git, Jupyter
 * Библиотеки: NumPy, pandas, Scikit-learn, LightGBM, CatBoost, XGBoost
 * Визуализация: Matplotlib, Seaborn
